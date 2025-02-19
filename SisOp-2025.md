@@ -187,3 +187,49 @@ b. **3571₈**
 1 ÷ 16 = 0, sisa 1
 ```
 **Bilangan heksadesimal dari 5230₁₀ adalah: `146E₁₆`**
+
+## **7**
+
+### **Konversikan bilangan heksadesimal di bawah ini ke dalam bilangan desimal**  
+
+#### **a. ABCD₁₆**  
+**Langkah-langkah konversi:**  
+```
+=(10×4096)+(11×256)+(12×16)+(13×1)  
+=40960+2816+192+13
+=43981 
+```
+**Bilangan decimal dari ABCD adalah _43981_**  
+
+---
+
+#### **b. 2170₁₆**  
+**Langkah-langkah konversi:**  
+```
+=(2×4096)+(1×256)+(7×16)+(0×1)  
+=8192+256+112+0  
+=8560  
+```
+**Bilangan decimal dari 2170 adalah _8560_**  
+
+---
+
+#### **c. B75F₁₆**  
+**Langkah-langkah konversi:**  
+```
+=(11×4096)+(7×256)+(5×16)+(15×1) 
+=45056+1792+80+15  
+=46943  
+```
+**Bilangan decimal dari B75F adalah _46943_**  
+
+---
+
+#### **d. EBED₁₆**  
+**Langkah-langkah konversi:** 
+```
+=(14×4096)+(11×256)+(14×16)+(13×1)
+=57344+2816+224+13 
+=60397  
+```
+**Bilangan decimal dari EBED adalah _60397_** 
