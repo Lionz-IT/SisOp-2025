@@ -233,3 +233,179 @@ b. **3571₈**
 =60397  
 ```
 **Bilangan decimal dari EBED adalah _60397_** 
+
+# 8
+
+##**Konversikan bilangan pecahan desimal di bawah ini ke dalam bilangan biner**
+
+### a. 0,3125₁₀
+
+#### Langkah-langkah konversi:
+```
+0,3125 × 2 = 0,625 sisa 0
+0,625 × 2 = 1,25 sisa 1
+0,25 × 2 = 0,5 sisa 0
+0,5 × 2 = 1,0 sisa 1
+```
+**Bilangan biner untuk 0,3125 adalah:**  
+`0.0101`
+
+---
+
+### b. 0,65625₁₀
+
+#### Langkah-langkah konversi:
+```
+0,65625 × 2 = 1,3125 sisa 1
+0,3125 × 2 = 0,625 sisa 0
+0,625 × 2 = 1,25 sisa 1
+0,25 × 2 = 0,5 sisa 0
+0,5 × 2 = 1,0 sisa 1
+```
+**Bilangan biner untuk 0,65625 adalah:**  
+`0.10101`
+
+---
+
+### c. 0,34375₁₀
+
+#### Langkah-langkah konversi:
+```
+0,34375 × 2 = 0,6875 sisa 0
+0,6875 × 2 = 1,375 sisa 1
+0,375 × 2 = 0,75 sisa 0
+0,75 × 2 = 1,5 sisa 1
+0,5 × 2 = 1,0 sisa 1
+```
+**Bilangan biner untuk 0,34375 adalah:**  
+`0.01011`
+
+---
+
+### d. 0,140625₁₀
+
+#### Langkah-langkah konversi:
+```
+0,140625 × 2 = 0,28125 sisa 0
+0,28125 × 2 = 0,5625 sisa 0
+0,5625 × 2 = 1,125 sisa 1
+0,125 × 2 = 0,25 sisa 0
+0,25 × 2 = 0,5 sisa 0
+0,5 × 2 = 1,0 sisa 1
+```
+**Bilangan biner untuk 0,140625 adalah:**  
+`0.001001`
+
+# 9
+
+## **Konversikan bilangan desimal di bawah ini ke dalam bilangan biner**  
+
+### a. 11,625₁₀
+
+#### Langkah-langkah konversi:
+```
+11 ÷ 2 = 5  sisa 1  
+5 ÷ 2 = 2   sisa 1  
+2 ÷ 2 = 1   sisa 0  
+1 ÷ 2 = 0   sisa 1  
+
+Hasil bagian bulat: 1011₂  
+
+0,625 × 2 = 1,25  sisa 1  
+0,25 × 2  = 0,5   sisa 0  
+0,5 × 2   = 1,0   sisa 1  
+
+Hasil bagian pecahan: 101₂  
+
+Bilangan biner dari 11,625 adalah: 1011,101  
+```
+-------------------------------------------------
+
+### b. 0,6875₁₀
+
+#### Langkah-langkah konversi:
+```
+0,6875 × 2 = 1,375  sisa 1  
+0,375 × 2  = 0,75   sisa 0  
+0,75 × 2   = 1,5    sisa 1  
+0,5 × 2    = 1,0    sisa 1  
+
+Hasil bagian pecahan: 1011₂  
+
+Bilangan biner dari 0,6875 adalah: 0.1011  
+```
+-------------------------------------------------
+
+### c. 0,75₁₀
+
+#### Langkah-langkah konversi:
+```
+0,75 × 2 = 1,5  sisa 1  
+0,5 × 2  = 1,0  sisa 1  
+
+Hasil bagian pecahan: 11₂  
+
+Bilangan biner dari 0,75 adalah: 0.11  
+```
+-------------------------------------------------
+
+### d. 25,75₁₀
+
+#### Langkah-langkah konversi:
+```
+25 ÷ 2 = 12  sisa 1  
+12 ÷ 2 = 6   sisa 0  
+6 ÷ 2  = 3   sisa 0  
+3 ÷ 2  = 1   sisa 1  
+1 ÷ 2  = 0   sisa 1  
+
+Hasil bagian bulat: 11001₂  
+
+0,75 × 2 = 1,5  sisa 1  
+0,5 × 2  = 1,0  sisa 1  
+
+Hasil bagian pecahan: 11₂  
+
+Bilangan biner dari 25,75 adalah: 11001,11
+```
+# 10
+
+## Konversikan bilangan desimal di bawah ini ke dalam bilangan biner
+
+### a. 11,625₁₀
+
+**Langkah-langkah konversi:**
+
+```
+11 ÷ 2 = 5   sisa 1  
+5 ÷ 2  = 2   sisa 1  
+2 ÷ 2  = 1   sisa 0  
+1 ÷ 2  = 0   sisa 1  
+
+Hasil bagian bulat: 1011₂
+
+0,625 × 2 = 1,25  sisa 1  
+0,25 × 2  = 0,5   sisa 0  
+0,5 × 2   = 1,0   sisa 1  
+
+Hasil bagian pecahan: 101₂
+
+Bilangan biner dari 11,625 adalah: **1011,101**
+```
+
+---
+
+### b. 0,6875₁₀
+
+**Langkah-langkah konversi:**
+
+```
+0,6875 × 2 = 1,375  sisa 1  
+0,375 × 2  = 0,75   sisa 0  
+0,75 × 2   = 1,5    sisa 1  
+0,5 × 2    = 1,0    sisa 1  
+
+Hasil bagian pecahan: 1011₂
+
+Bilangan biner dari 0,6875 adalah: **0,1011**
+```
