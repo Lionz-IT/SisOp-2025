@@ -409,3 +409,233 @@ Hasil bagian pecahan: 1011₂
 
 Bilangan biner dari 0,6875 adalah: **0,1011**
 ```
+
+# 11  
+
+## Konversikan bilangan biner, oktal, dan heksadesimal di bawah ini ke dalam bilangan desimal  
+
+### a. **010100011,0011111101₂**  
+
+#### Langkah-langkah konversi:
+
+```
+0 × 2⁸ = 0  
+1 × 2⁷ = 128  
+0 × 2⁶ = 0  
+1 × 2⁵ = 32  
+0 × 2⁴ = 0  
+0 × 2³ = 0  
+0 × 2² = 0  
+1 × 2¹ = 2  
+1 × 2⁰ = 1  
+
+= 0 + 128 + 0 + 32 + 0 + 0 + 0 + 2 + 1  
+= 163  
+```
+
+**Sehingga nilai bulatnya adalah** 163  
+
+```
+0 × 2⁻¹ = 0  
+0 × 2⁻² = 0  
+1 × 2⁻³ = 0.125  
+1 × 2⁻⁴ = 0.0625  
+1 × 2⁻⁵ = 0.03125  
+1 × 2⁻⁶ = 0.015625  
+1 × 2⁻⁷ = 0.0078125  
+1 × 2⁻⁸ = 0.00390625  
+
+= 0 + 0 + 0.125 + 0.0625 + 0.03125 + 0.015625 + 0.0078125 + 0.00390625  
+= 0.245  
+```
+
+**Bilangan desimal dari 010100011,0011111101₂ adalah** 163,245  
+
+---
+
+### b. **654,276₈**  
+
+#### Langkah-langkah konversi:
+
+```
+6 × 8² = 384  
+5 × 8¹ = 40  
+4 × 8⁰ = 4  
+
+= 384 + 40 + 4  
+= 428  
+```
+
+**Sehingga nilai bulatnya adalah** 428  
+
+```
+2 × 8⁻¹ = 0.25  
+7 × 8⁻² = 0.109375  
+6 × 8⁻³ = 0.046875  
+
+= 0.25 + 0.109375 + 0.046875  
+= 0.40625  
+```
+
+**Bilangan desimal dari 654,276₈ adalah** 428,40625  
+
+---
+
+### c. **4C5,2B8₁₆**  
+
+#### Langkah-langkah konversi:
+
+```
+4 × 16² = 1024  
+C × 16¹ = 192  
+5 × 16⁰ = 5  
+
+= 1024 + 192 + 5  
+= 1221  
+```
+
+**Sehingga nilai bulatnya adalah** 1221  
+
+```
+2 × 16⁻¹ = 0.125  
+B × 16⁻² = 0.04296875  
+8 × 16⁻³ = 0.001953125  
+
+= 0.125 + 0.04296875 + 0.001953125  
+= 0.169921875  
+```
+
+**Bilangan desimal dari 4C5,2B8₁₆ adalah** 1221,1699
+
+# 12  
+
+## Rubahlah bilangan biner di bawah ini ke dalam bentuk BCD
+
+### a. 10100110000111
+
+**Langkah-langkah konversi**:
+
+```
+0010 1001 1000 0111
+```
+
+| 0010 | 1001 | 1000 | 0111 |
+|------|------|------|------|
+|  2   |  9   |  8   |  7   |
+
+**Bentuk BCD dari 10100110000111 adalah 2987**
+
+---
+
+### b. 1010101100011
+
+**Langkah-langkah konversi**:
+
+```
+0001 0101 0110 0011
+```
+
+| 0001 | 0101 | 0110 | 0011 |
+|------|------|------|------|
+|  1   |  5   |  6   |  3   |
+
+**Bentuk BCD dari 1010101100011 adalah 1563**
+
+# 13  
+## **Rubahlah bentuk BCD di bawah ini ke dalam bilangan biner**  
+  
+### **a. 1987**  
+#### Langkah-langkah konversi:  
+
+| 0001 | 1001 | 1000 | 0111 |
+|------|------|------|------|
+|  1   |   9  |   8  |  7   |
+
+**Bilangan biner dari BCD 1987 adalah:** `0001100110000111`  
+  
+### **b. 2346**  
+#### Langkah-langkah konversi:  
+
+| 0010 | 0011 | 0100 | 0110 |
+|------|------|------|------|
+|  2   |   3  |   4  |  6   |
+
+**Bilangan biner dari BCD 2346 adalah:** `0010001101000110`  
+  
+### **c. 501**  
+#### Langkah-langkah konversi:  
+
+| 0101 | 0000 | 0001 |
+|------|------|------|
+|   5  |   0  |  1   |
+
+**Bilangan biner dari BCD 501 adalah:** `010100000001`
+
+# 14  
+## **Rubahlah bilangan biner di bawah ini ke dalam BCO**  
+
+### **a. 11111101001₂**  
+#### Langkah-langkah konversi:
+```
+011 111 101 001
+```
+| 011  | 111  | 101  | 001  |
+|------|------|------|------|
+| 3    | 7    | 5    | 1    |
+
+**Bentuk BCO dari 11111101001 adalah 3751**  
+---  
+### **b. 101110 010100₂**  
+#### Langkah-langkah konversi:
+```
+101 110 010 100
+```
+| 101  | 110  | 010  | 100  |
+|------|------|------|------|
+| 5    | 6    | 2    | 4    |
+
+**Bentuk BCO dari 101110 010100 adalah 5624**  
+---  
+### **c. 110000010₂**  
+#### Langkah-langkah konversi:
+```
+001 100 000 010
+```
+| 001  | 100  | 000  | 010  |
+|------|------|------|------|
+| 1    | 4    | 0    | 2    |
+
+**Bentuk BCO dari 110000010 adalah 1402**
+
+# 15  
+##Rubahlah bilangan biner di bawah ini ke dalam BCH
+
+### a. 1101111100101110₂
+
+#### **Langkah-langkah konversi:**
+
+```
+1101 1111 0010 1110
+```
+
+| 1101 | 1111 | 0010 | 1110 |
+|------|------|------|------|
+|  D   |  F   |  2   |  E   |
+
+**Bentuk BCH dari 1101111100101110 adalah DF2E**
+
+---
+
+### b. 1101001100000001₂
+
+#### **Langkah-langkah konversi:**
+
+```
+0110 1001 0000 0001
+```
+
+| 0110 | 1001 | 0000 | 0001 |
+|------|------|------|------|
+|  6   |  9   |  8   |  1   |
+
+**Bentuk BCH dari 1101001100000001 adalah 6981**
