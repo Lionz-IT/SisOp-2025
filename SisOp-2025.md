@@ -639,3 +639,247 @@ B × 16⁻² = 0.04296875
 |  6   |  9   |  8   |  1   |
 
 **Bentuk BCH dari 1101001100000001 adalah 6981**
+
+# 16 
+## Rubahlah Bentuk BCH di bawah ini ke dalam bilangan heksadesimal
+
+### a. F0DE
+#### **Langkah-langkah konversi:**
+
+| F  | 0  | D  | E  |
+|----|----|----|----|
+| 1111 | 0000 | 1101 | 1110 |
+
+Bilangan heksadesimal dari **BCH F0DE** adalah **1111 0000 1101 1110**
+
+---
+
+### b. 1CAB
+#### **Langkah-langkah konversi:**
+
+| 1  | C  | A  | B  |
+|----|----|----|----|
+| 0001 | 1100 | 1010 | 1011 |
+
+Bilangan heksadesimal dari **BCH 1CAB** adalah **1 1100 1010 1011**
+
+---
+
+### c. 834
+#### **Langkah-langkah konversi:**
+
+| 8  | 3  | 4  |
+|----|----|----|
+| 1000 | 0011 | 0100 |
+
+Bilangan heksadesimal dari **BCH 834** adalah **1000 0011 0100**
+
+# 17
+## **Nyatakan positif atau negatif bilangan biner di bawah ini**
+
+### a. 01111111
+
+#### Langkah-langkah konversi:
+
+Karena Most Significant Bit (MSB) nya adalah `0` maka bilangan biner **positif**.  
+Bilangan desimalnya adalah **+127**.
+
+---
+
+### b. 10000000
+
+#### Langkah-langkah konversi:
+Karena Most Significant Bit (MSB) nya adalah `1` maka bilangan biner **negatif**.  
+Bilangan desimalnya adalah **-128**.
+
+---
+
+### c. 01111011
+
+#### Langkah-langkah konversi:
+Karena Most Significant Bit (MSB) nya adalah `0` maka bilangan biner **positif**.  
+Bilangan desimalnya adalah **+123**
+
+# 18
+
+## **Nyatakan bilangan biner negatif di bawah ini ke dalam bilangan desimal**
+
+### a. 10001000
+
+#### Langkah-langkah konversi:
+Balikkan bit menjadi: `01110111`  
+`01110111 = 119`, tambahkan `1` menjadi `-120`  
+Lalu lakukan negasi sehingga hasilnya adalah **-120**.  
+
+**Bilangan desimal dari 10001000 adalah: -120**
+
+---
+
+### b. 11110111
+
+#### Langkah-langkah konversi:
+Balikkan bit menjadi: `00001000`  
+`00001000 = 8`, tambahkan `1` menjadi `-9`  
+Lalu lakukan negasi sehingga hasilnya adalah **-9**.  
+
+**Bilangan desimal dari 11110111 adalah: -9**
+
+---
+
+### c. 10000101
+
+#### Langkah-langkah konversi:
+Balikkan bit menjadi: `01111010`  
+`01111010 = 122`, tambahkan `1` menjadi `-123`  
+Lalu lakukan negasi sehingga hasilnya adalah **-123**.  
+
+**Bilangan desimal dari 10000101 adalah: -123**
+
+---
+
+### d. 10011100
+
+#### Langkah-langkah konversi:
+Balikkan bit menjadi: `01100011`  
+`01100011 = 99`, tambahkan `1` menjadi `-100`  
+Lalu lakukan negasi sehingga hasilnya adalah **-100**.  
+
+**Bilangan desimal dari 10011100 adalah: -100**
+
+# 19
+
+## **Nyatakan ASCII Code di bawah ini dalam bentuk karakter**
+
+### a. 41₁₆
+
+#### Langkah-langkah konversi:
+```
+4 × 16¹ + 1 × 16⁰  
+= 64 + 1  
+= 65₁₀  
+```
+**Nilai 65 dalam ASCII adalah: A**
+
+---
+
+### b. 5A₁₆
+
+#### Langkah-langkah konversi:
+```
+5 × 16¹ + 10 × 16⁰  
+= 80 + 10  
+= 90₁₀  
+```
+**Nilai 90 dalam ASCII adalah: Z**
+
+---
+
+### c. 24₁₆
+
+#### Langkah-langkah konversi:
+```
+2 × 16¹ + 4 × 16⁰  
+= 32 + 4  
+= 36₁₀  
+```
+**Nilai 36 dalam ASCII adalah: $**
+
+---
+
+### d. 77₁₆
+
+#### Langkah-langkah konversi:
+```
+7 × 16¹ + 7 × 16⁰  
+= 112 + 7  
+= 119₁₀  
+```
+**Nilai 119 dalam ASCII adalah: W**
+
+# 20
+
+## **Nyatakan Karakter di bawah ini dalam ASCII Code**
+
+### a. a
+
+#### Langkah-langkah konversi:
+```
+Karakter `a` memiliki nilai desimal 97  
+97 : 16 = 6 sisa 1  
+6 : 16 = 0 sisa 6  
+```
+**ASCII Code dari `a` adalah: 61**
+
+---
+
+### b. x
+
+#### Langkah-langkah konversi:
+```
+Karakter `x` memiliki nilai desimal 120  
+120 : 16 = 7 sisa 8  
+7 : 16 = 0 sisa 7  
+```
+**ASCII Code dari `x` adalah: 78**
+
+---
+
+### c. m
+
+#### Langkah-langkah konversi:
+```
+Karakter `m` memiliki nilai desimal 109  
+109 : 16 = 6 sisa 13 (D)  
+6 : 16 = 0 sisa 6  
+```
+**ASCII Code dari `m` adalah: 6D**
+
+---
+
+### d. H
+
+#### Langkah-langkah konversi:
+```
+Karakter `H` memiliki nilai desimal 72  
+72 : 16 = 4 sisa 8  
+4 : 16 = 0 sisa 4  
+```
+**ASCII Code dari `H` adalah: 48**
+
+# 21
+
+## **Dengan Keyboard standard ASCII, pada layar monitor nampak tulisan sebagai berikut**
+
+```
+PRINT X
+```
+
+### **Nyatakan Keluaran pada Keyboard tersebut.**
+
+1. **Karakter P**  
+   Kode ASCII (desimal): 80  
+   Biner: `01010000`  
+
+2. **Karakter R**  
+   Kode ASCII (desimal): 82  
+   Biner: `01010010`  
+
+3. **Karakter I**  
+   Kode ASCII (desimal): 73  
+   Biner: `01001001`  
+
+4. **Karakter N**  
+   Kode ASCII (desimal): 78  
+   Biner: `01001110`  
+
+5. **Karakter T**  
+   Kode ASCII (desimal): 84  
+   Biner: `01010100`  
+
+6. **Karakter Spasi (␣)**  
+   Kode ASCII (desimal): 32  
+   Biner: `00100000`  
+
+7. **Karakter X**  
+   Kode ASCII (desimal): 88  
+   Biner: `01011000`
