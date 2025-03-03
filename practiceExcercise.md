@@ -1,5 +1,3 @@
-# Operating System Assignment
-
 **Name**: Rafif Ahmad Yudhistira  
 **Class**: 1 D3 IT B  
 **NRP**: 3124500045  
