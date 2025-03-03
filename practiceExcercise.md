@@ -65,8 +65,3 @@ Caches use faster but more expensive technology. Expanding a cache to the size o
   - **Example**: Web browsing.  
 - **Peer-to-peer model**: All nodes can act as both clients and servers, sharing resources directly.  
   - **Example**: Torrent networks.  
-
----
-
-This document is formatted for clarity and readability on GitHub. Let me know if you need any modifications! 🚀
-
