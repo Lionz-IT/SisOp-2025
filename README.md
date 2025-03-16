@@ -20,7 +20,8 @@ operating-systems-2025
 ```
 
 ## Teacher
-- **Lecturer**: Dr Ferry Astika Saputra ST, M.Sc 
+- **Theory Lecturer**: Dr Ferry Astika Saputra ST, M.Sc
+- **Practical Lecturer** : Yesta Medya Mahardhika S.Tr.Kom., M.T
 
 ---
 *Keep learning and exploring the world of Operating Systems!*
