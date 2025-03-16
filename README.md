@@ -20,8 +20,8 @@ operating-systems-2025
 └── README.md       # Repository documentation
 ```
 
-## 📝 Teacher
+## Teacher
 - **Lecturer**: Dr Ferry Astika Saputra ST, M.Sc 
 
 ---
-📌 *Keep learning and exploring the world of Operating Systems!* 🚀
+*Keep learning and exploring the world of Operating Systems!*
