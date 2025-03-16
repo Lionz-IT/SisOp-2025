@@ -15,8 +15,6 @@ NRP  : 3124500045
 operating-systems-2025
 ├── materials       # Lecture slides, notes, or videos
 ├── assignments     # Assignments and instructions
-├── projects        # Final projects or lab work
-├── references      # Additional reading materials
 └── README.md       # Repository documentation
 ```
 
