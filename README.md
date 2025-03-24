@@ -1,9 +1,9 @@
-# Operation Systems 2025
+# Operating Systems 2025
 
-Welcome to the repository for the **Operation Systems 2025** subject.
+Welcome to the repository for the **Operating Systems 2025** subject.
 
 ## Description
-This repository contains lecture materials, assignments, projects, and other learning resources used in the **Operation Systems** subject for the 2025 academic year.
+This repository contains lecture materials, assignments, projects, and other learning resources used in the **Operating Systems** subject for the 2025 academic year.
 Let me introduce myself,
 ```
 Name  : Rafif Ahmad Yudhistira
