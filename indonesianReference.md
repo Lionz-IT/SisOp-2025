@@ -25,11 +25,11 @@
 ### 2.11.2. Thread
 
 #### Soal 3: Perbedaan User vs Kernel Thread
-| **Aspek**       | **User Thread**                | **Kernel Thread**              |
-|-----------------|--------------------------------|--------------------------------|
-| Manajemen       | Library user space             | Sistem operasi                 |
-| Blokir sistem   | Blokir seluruh proses          | Thread lain tetap jalan        |
-| **Keunggulan**  | Overhead rendah                | Paralelisme sejati            |
+| Aspek                  | User-Level Thread                  | Kernel-Level Thread                     |
+|------------------------|------------------------------------|-----------------------------------------|
+| Pengelolaan            | Oleh library di user space         | Oleh kernel                             |
+| Efisiensi Context Switch | Cepat, tanpa syscall               | Lambat, perlu syscall                   |
+| Cocok digunakan saat   | Proses ringan dan tidak block I/O  | Proses blocking I/O dan multiprosesor   |
 
 #### Soal 4: Alih Konteks Kernel Thread
 ```plaintext
