@@ -74,13 +74,3 @@
 
 ---
 
-## 2.12. Rujukan
-1. Silberschatz, A., Galvin, P., & Gagne, G. (2002). *Applied OS Concepts*
-2. Stallings, W. (2001). *Operating Systems, 4th Ed.*
-
-## 2.13. Daftar Istilah
-| Istilah          | Deskripsi                          |
-|------------------|------------------------------------|
-| **PCB**          | Struktur data simpan state proses  |
-| **Quantum Time** | Waktu alokasi CPU per proses       |
-| **TCB**          | Struktur data untuk thread         |
