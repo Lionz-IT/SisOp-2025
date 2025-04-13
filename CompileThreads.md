@@ -2,7 +2,7 @@
 
 Program ini menunjukkan cara membuat tiga thread yang mencetak angka "1", "2", dan "3" secara konkuren menggunakan pustaka `pthread`.
 
-## Kode Program print123thread.c
+## Kode Program `print123thread.c`
 ```c
 #include <stdio.h>
 #include <stdlib.h>
