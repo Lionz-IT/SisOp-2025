@@ -11,16 +11,7 @@
   - **Response Time (RT)** = WT (untuk FCFS non-preemptive).
 
 ### Contoh Output
-|No| BT| CT| TAT| WT| RT|
-|--|---|---|----|---|---|
-|P1| 8 |8 |8 |0 |0|
-|P2| 4 |12 |12| 8 |8|
-|P3| 9 |21 |21 |12 |12|
-|P4| 5 |26 |26 |21 |21|
-
-Average TurnAroundTime=16.75
-Average WaitingTime=10.25
-
+![Image](https://github.com/user-attachments/assets/c9287856-d974-441a-9c9d-08b8ad2ad94a)
 
 ### Kelebihan dan Kekurangan
 | **Kelebihan**                          | **Kekurangan**                          |
@@ -42,7 +33,4 @@ Average WaitingTime=10.25
   - **WT** = TAT - BT.
 
 ### Contoh Output
-## 1. Dengan Arrival Time
 ![Image](https://github.com/user-attachments/assets/eab716f5-14a8-4396-9e00-6a1998b2ebd1)
-## 2. Tanpa Arrival Time
-![Image](https://github.com/user-attachments/assets/c9287856-d974-441a-9c9d-08b8ad2ad94a)
