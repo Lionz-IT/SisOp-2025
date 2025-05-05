@@ -42,3 +42,7 @@ Average WaitingTime=10.25
   - **WT** = TAT - BT.
 
 ### Contoh Output
+## 1. Dengan Arrival Time
+![Image](https://github.com/user-attachments/assets/eab716f5-14a8-4396-9e00-6a1998b2ebd1)
+## 2. Tanpa Arrival Time
+![Image](https://github.com/user-attachments/assets/c9287856-d974-441a-9c9d-08b8ad2ad94a)
