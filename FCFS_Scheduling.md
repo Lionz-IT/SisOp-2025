@@ -34,3 +34,11 @@
 
 ### Contoh Output
 ![Image](https://github.com/user-attachments/assets/eab716f5-14a8-4396-9e00-6a1998b2ebd1)
+
+## Kelebihan dan Kekurangan
+
+| **Kelebihan**                          | **Kekurangan**                          |
+|----------------------------------------|-----------------------------------------|
+| Sederhana dan mudah diimplementasikan. | Tidak efisien untuk AT yang berbeda.    |
+| Adil (First-Come-First-Served).        | WT/TAT tinggi untuk proses ber-BT panjang di awal. |
+| Cocok untuk sistem batch.              | Rentan kesalahan CT jika AT > CT sebelumnya. |
