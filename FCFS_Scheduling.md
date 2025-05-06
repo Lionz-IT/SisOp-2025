@@ -1,5 +1,14 @@
 # Analisis FCFS Scheduling Algorithm (Dengan dan Tanpa Arrival Time)
 
+## Anggota
+
+- **Rafif Ahmad Yudhistira** (3124500045)
+- **Syahrul Ardi Prasetiyo** (3124500035)
+- **Muhammad Rizqi Putra N.** (3124500044)
+
+## Dosen Pengajar
+**Dr Ferry Astika Saputra ST, M.Sc**
+
 ## 1. **FCFS Tanpa Arrival Time**
 ### Penjelasan Algoritma
 - **Asumsi**: Semua proses memiliki waktu kedatangan (arrival time) = 0.
