@@ -1,10 +1,10 @@
-# Contoh Program Multithreading di C dengan `pthread`
-
 ## Nama
 **Rafif Ahmad Yudhistira** (3124500045)
 
 ## Dosen Pengajar
 **Dr Ferry Astika Saputra ST, M.Sc**
+
+# Contoh Program Multithreading di C dengan `pthread`
 
 Program ini menunjukkan cara membuat tiga thread yang mencetak angka "1", "2", dan "3" secara konkuren menggunakan pustaka `pthread`.
 
