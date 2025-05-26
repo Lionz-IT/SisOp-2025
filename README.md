@@ -13,7 +13,7 @@ Class : 1 D3 IT B
 
 ## Repository Structure
 ```
-operating-systems-2025
+SisOp-25
 ├── materials       # Lecture slides, notes, or videos
 ├── assignments     # Assignments and instructions
 └── README.md       # Repository documentation
