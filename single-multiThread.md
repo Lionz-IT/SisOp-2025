@@ -1,4 +1,9 @@
 # Single Thread vs Multi-thread
+## Nama
+**Rafif Ahmad Yudhistira** (3124500045)
+
+## Dosen Pengajar
+**Dr Ferry Astika Saputra ST, M.Sc**
 
 **Single-threaded** processes use a single execution flow where all program components (code, data, files, registers, stack, and PC) are exclusively managed by one thread. This linear execution model processes instructions sequentially, making it simple to implement but inefficient for parallel tasks. It's ideal for basic applications like command-line tools or simple scripts where task switching isn't required.
 
