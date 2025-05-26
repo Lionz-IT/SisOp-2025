@@ -1,8 +1,8 @@
-**Nama** : Rafif Ahmad Yudhistira  
-**Kelas** : 1 D3 IT B  
-**NRP** : 3124500045  
+## Nama
+**Rafif Ahmad Yudhistira** (3124500045)
 
----
+## Dosen Pengajar
+**Dr Ferry Astika Saputra ST, M.Sc**
 
 # **LATIHAN**  
 
