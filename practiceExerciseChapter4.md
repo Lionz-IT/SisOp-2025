@@ -1,5 +1,11 @@
 ## Chapter 4 - Threads & Concurrency
 
+## Nama
+**Rafif Ahmad Yudhistira** (3124500045)
+
+## Dosen Pengajar
+**Dr Ferry Astika Saputra ST, M.Sc**
+
 ### 4.1
 **Question:** Provide three programming examples in which multithreading provides better performance than a single-threaded solution.  
 **Answer:**
