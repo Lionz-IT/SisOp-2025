@@ -1,3 +1,9 @@
+## Nama
+**Rafif Ahmad Yudhistira** (3124500045)
+
+## Dosen Pengajar
+**Dr Ferry Astika Saputra ST, M.Sc**
+
 ## Computer System Structures  
 
 This section provides a summary of the key concepts from Appendix A, based on *Operating System Concepts* by Abraham Silberschatz.
