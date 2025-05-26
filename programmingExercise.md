@@ -1,5 +1,11 @@
 # Analisis Implementasi Thread pada Berbagai Platform
 
+## Nama
+**Rafif Ahmad Yudhistira** (3124500045)
+
+## Dosen Pengajar
+**Dr Ferry Astika Saputra ST, M.Sc**
+
 ## a. Penerapan Thread pada SumTask.java (Java Fork/Join Framework)
 
 Java Fork/Join Framework merupakan model konkurensi tingkat tinggi yang diperkenalkan dalam Java 7. Implementasi pada SumTask.java menunjukkan pendekatan _divide-and-conquer_ yang elegan untuk pemrosesan paralel. 
