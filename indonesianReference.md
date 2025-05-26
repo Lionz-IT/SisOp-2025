@@ -1,3 +1,9 @@
+## Nama
+**Rafif Ahmad Yudhistira** (3124500045)
+
+## Dosen Pengajar
+**Dr Ferry Astika Saputra ST, M.Sc**
+
 ## 2.11. Soal-soal Latihan
 
 ### 2.11.1. Proses
