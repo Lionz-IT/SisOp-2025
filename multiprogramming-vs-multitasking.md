@@ -1,5 +1,11 @@
 # Differences Between Multiprogramming and Multitasking
 
+## Nama
+**Rafif Ahmad Yudhistira** (3124500045)
+
+## Dosen Pengajar
+**Dr Ferry Astika Saputra ST, M.Sc**
+
 ## Multiprogramming (Batch System)
 Multiprogramming is a technique used to improve CPU efficiency by ensuring that the CPU always has a job to execute.
 
