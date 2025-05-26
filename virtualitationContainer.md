@@ -1,5 +1,11 @@
 # Virtualization and Containers
 
+## Nama
+- **Rafif Ahmad Yudhistira** (3124500045)
+
+## Dosen Pengajar
+**Dr Ferry Astika Saputra ST, M.Sc**
+
 ## Virtualization
 Virtualization is the technology that allows operating systems (OSes) to run applications within other OSes. It enables better resource utilization and supports running multiple OS instances on a single physical machine.
 
