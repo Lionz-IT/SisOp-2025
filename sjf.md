@@ -12,8 +12,6 @@
 ## 1. **SJF Scheduling Algorithm Without Arrival Time.c**
 ![image](https://github.com/user-attachments/assets/c98d5db5-8d05-4721-875d-9796c384dc1d)
 
-
-```markdown
 # Penjelasan Program SJF (Non-Preemptive) Tanpa Arrival Time
 
 ## Kode Program
